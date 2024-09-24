@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://byoue.github.io/yzz/sitemap.yzz.gz
